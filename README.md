@@ -1,6 +1,6 @@
 # Accepted at the 2019 International Conference on Robotics and Automation (ICRA).
 ```
-@inproceedings{huang19pidrone,
+@inproceedings{huang19mrdrone,
   title={{Flight, Camera, Action! Using Natural Language and Mixed Reality to Control a Drone}},
   author={Huang, Baichuan and Bayazit, Deniz and Ullman, Daniel and Gopalan Nakul and Tellex, Stefanie},
   booktitle={{IEEE International Conference on Robotics and Automation (ICRA)}},
